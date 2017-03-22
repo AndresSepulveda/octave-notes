@@ -17,7 +17,7 @@ import sys
 # Process command-line arguments
 parser = argparse.ArgumentParser(description=__doc__)
 
-parser.add_argument('-u', "--user", nargs='?', help='''username & groupname used by the image. The default is numgeom.''', default="numgeom")
+parser.add_argument('-u', "--user", nargs='?', help='''username & groupname used by the image. The default is compdatasci.''', default="compdatasci")
 
 parser.add_argument('-i', '--image', nargs='?', help='''The Docker image to use The default is odepack-notebook.''', default="odepack-notebook")
 
