@@ -1,4 +1,4 @@
-# Octave Notes
+# Programación Numérica en Geofísica
 
 This repository contains a collection of notes on MATLAB/Octave using Jupyter Notebooks. These Notes will teach you some basics of MATLAB programming as well as some fundamental concepts in numerical computing, including:
  - Matrix in MATLAB
